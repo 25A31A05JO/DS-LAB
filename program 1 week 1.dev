@@ -1,0 +1,11 @@
+#include<iostream>
+int main()
+using namespace std;
+{
+	cout<<"name:M.Bhavya Sruthi";
+	cout<<"roll no.:25A31A05JO";
+	cout<<"branch:CSE";
+	cout<<"section:F";
+	return 0;
+}
+
