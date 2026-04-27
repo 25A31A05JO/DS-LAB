@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int main(){
+	cout<<"sruthi";
+	cout<<"25a31a05jo";
+	cout<<"cse-f";
+}
